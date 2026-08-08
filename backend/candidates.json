@@ -1,0 +1,35 @@
+[
+  {
+    "id": "maya-chen",
+    "name": "Maya Chen",
+    "role": "Senior Product Designer",
+    "experience": "7 years",
+    "location": "Singapore",
+    "avatar": "MC",
+    "skills": ["Design systems", "User research", "Figma"],
+    "summary": "Systems-minded product designer who turns complex workflows into calm, usable products.",
+    "signal": "Strong craft signal"
+  },
+  {
+    "id": "jordan-williams",
+    "name": "Jordan Williams",
+    "role": "Full Stack Engineer",
+    "experience": "5 years",
+    "location": "London",
+    "avatar": "JW",
+    "skills": ["React", "Python", "PostgreSQL"],
+    "summary": "Pragmatic engineer with a track record of shipping reliable product experiences end to end.",
+    "signal": "High ownership"
+  },
+  {
+    "id": "arjun-patel",
+    "name": "Arjun Patel",
+    "role": "Data Scientist",
+    "experience": "4 years",
+    "location": "Toronto",
+    "avatar": "AP",
+    "skills": ["Python", "ML systems", "Experimentation"],
+    "summary": "Applied data scientist focused on translating ambiguous questions into measurable decisions.",
+    "signal": "Analytical depth"
+  }
+]

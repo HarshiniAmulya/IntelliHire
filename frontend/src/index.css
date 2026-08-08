@@ -1,0 +1,6 @@
+:root { font-family: 'DM Sans', 'Segoe UI', sans-serif; color: #f6f1ff; background: #110b1d; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+body { margin: 0; min-width: 320px; }
+
+#root { min-height: 100svh; }
+
+h1, h2, h3, p { margin: 0; } h1 { font-family: 'DM Serif Display', Georgia, serif; font-weight: 400; font-size: clamp(3.3rem, 7vw, 6.6rem); line-height: .93; letter-spacing: 0; } h2, h3 { font-weight: 500; } em { color: #be9aff; font-style: normal; } button, textarea { font: inherit; }

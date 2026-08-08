@@ -1,0 +1,8 @@
+{
+  "topics": [
+    {"id": "system-design", "title": "System design", "description": "Trade-offs, boundaries, and scalable architecture."},
+    {"id": "communication", "title": "Executive communication", "description": "Make decisions and impact easy to understand."},
+    {"id": "experimentation", "title": "Experimentation", "description": "Design better hypotheses, metrics, and learning loops."},
+    {"id": "accessibility", "title": "Inclusive product craft", "description": "Build experiences that work for more people."}
+  ]
+}
